@@ -1,0 +1,2 @@
+node commander.js
+pause
